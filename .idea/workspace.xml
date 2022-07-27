@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07e25dd7-f6f6-41f2-a5b2-828880172bb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/june2022-js.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/mine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/maine.js" afterDir="false" />
-    </list>
+    <list default="true" id="07e25dd7-f6f6-41f2-a5b2-828880172bb4" name="Changes" comment="js2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,8 +55,23 @@
       <updated>1658864302307</updated>
       <workItem from="1658864303524" duration="213000" />
       <workItem from="1658864564453" duration="7320000" />
-      <workItem from="1658914535549" duration="7079000" />
+      <workItem from="1658914535549" duration="7454000" />
     </task>
+    <task id="LOCAL-00001" summary="js2">
+      <created>1658923002021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658923002021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="js2">
+      <created>1658923303160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658923303160</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +87,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="js14" />
+    <MESSAGE value="js2" />
+    <option name="LAST_COMMIT_MESSAGE" value="js2" />
   </component>
 </project>
